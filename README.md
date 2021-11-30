@@ -6,7 +6,7 @@
 
 # EXPLORANDO A BIBLIOTECA PANDAS
 
-<p>A principal tarefa para engenheiros quando desejam trabalhar com Machine Learning e realizar análise de dados para determinar a viabilidade de encontrar tendências, e então criar um "pipeline" efieciete para treinar o modelo. Este processo envolve
+<p>A principal tarefa para engenheiros quando desejam trabalhar com Machine Learning e realizar análise de dados para determinar a viabilidade de encontrar tendências, e então criar um "pipeline" eficiente para treinar o modelo. Este processo envolve
 usar bibliotecas como NumPy e Pandas para manipular dados, em conjunto com frameworks como TensorFlow/Keras/PyTorch.</p>
 
 <p>O pandas é muito útil para trabalhar com dataframes, (dataframes é basicamente uma tabela que contém linhas e colunas).</p>
@@ -17,18 +17,18 @@ usar bibliotecas como NumPy e Pandas para manipular dados, em conjunto com frame
 <p>Neste tutorial utilizarei o Jupyter Notebook como ferramenta para desenvolver e executar os códigos.</p>
 
 ## Guia de instalação
-<p>Para que você possa estar acompanhando este tutorial e também executando em sua máquina este passo a passo, certifique se de que já tenha o Python instalado em seu computador, para consultar se o Python já está instalado, abra o Prompt de comando CMD do windows, e execute o comando python, com isso deverá aparecer Python e sua versão, no MAC ou Linux acesse o Terminal e ao invés de digitar apenas Python, digite Pytonh3.
+<p>Para que você possa estar acompanhando este tutorial e também executando em sua máquina este passo a passo, certifique-se de que já tenha o Python instalado em seu computador, para consultar se o Python já está instalado, abra o Prompt de comando CMD do windows, e execute o comando python, com isso deverá aparecer Python e sua versão, no MAC ou Linux acesse o Terminal e ao invés de digitar apenas Python, digite Python3.
 </p>
 
 <p>caso não tenha o Python instalado, acesse o site oficial do Python, <https://www.python.org/> 
-em seguida clique em download e será guiado para página de download  da versão, conforme a ilustra a imagem a seguir, para instalar a última versão clique no botão amarelo conforme aponta a seta 02, então o download será inicializado, após concluir o download, vá até a pasta Python que foi baixada (possivelmente estará na pasta downloads), e clique no executável para efetuar a instalação, todo o processo consiste basicamente clicar  em install, next, next… e finish.</p>
+em seguida clique em download e será guiado para página de download da versão, conforme ilustra a imagem a seguir, para instalar a última versão clique no botão amarelo conforme aponta a seta 02, então o download será inicializado, após concluir o download, vá até a pasta Python que foi baixada (possivelmente estará na pasta downloads), e clique no executável para efetuar a instalação, todo o processo consiste basicamente em clicar em install, next, next... e finish.</p>
 
 ![Download_Python](img/Download_Python.png)
 
-<p>Para instalar o Jupyter notebook, basta instalar o Anacondas que já está com Jupyter Notebook integrado.
-Instalando o Anaconda, para isso acesse o site do Anaconda, <https://anaconda.org/>
+<p>Para instalar o Jupyter Notebook, basta instalar o Anaconda que já está com Jupyter Notebook integrado.
+Para instalar, acesse o site do Anaconda: <https://anaconda.org/>
 </p>
-<p>Clique em Download anaconda </p>
+<p>Clique em Download Anaconda</p>
 
 ![Download_Anaconda](img/Download_Anaconda-1.png)
 <p>Após clicar em download Anaconda, que irá te guiar para página seguinte,  role a página até o rodapé e selecione a versão que mais se enquadra com o seu sistema operacional, no meu caso estou usando o windows 64-bit</p>
